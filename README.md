@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=tomato&width=380&height=45&lines=Linux;Networking;Internet+of+Things;DevOps;Cloud;&center=true"></a>
 </p>
 
-![Lakisuru's github activity graph](https://activity-graph.herokuapp.com/graph?username=lakizuru&theme=xcode)
-
 ## Technologies
 ### Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=Java)
@@ -25,7 +23,7 @@
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 <p align="center">
